@@ -1,0 +1,14 @@
+   <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+
+
+    "main": "home.js",
+
+      setRestraunts(json.data.cards[2].card.card.gridElements.infoWithStyle.restaurants[0].info);
+
+
+      component for not there search
+      component for shimmer
+
+      'card p-5 m-4 border-black w-90 flex flex-col h-90 rounded-md bg-pink-100 shadow-lg justify-center text-center items-center'

@@ -1,0 +1,52 @@
+{
+  "name": "namasthe-react",
+  "version": "1.0.0",
+  "description": "Learning",
+  "scripts": {
+    "start": "parcel home.html",
+    "build": "parcel build home.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "varun",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varun-531/Sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Varun-531/Sample/issues"
+  },
+  "homepage": "https://github.com/Varun-531/Sample#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "assert": "^2.1.0",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "events": "^3.3.0",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "parcel": "^2.10.3",
+    "path-browserify": "^1.0.1",
+    "postcss": "^8.4.32",
+    "process": "^0.11.10",
+    "punycode": "^1.4.1",
+    "querystring-es3": "^0.2.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "tailwindcss": "^3.4.0",
+    "url": "^0.11.3"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.2",
+    "connectivity": "^1.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.0"
+  },
+  "browserslist": [
+    "cover 99.5%"
+  ]
+}
